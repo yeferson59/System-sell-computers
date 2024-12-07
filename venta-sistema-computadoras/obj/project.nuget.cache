@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/yXRup8yV/UsQZzxnSS84AI4RJz3WZK6maa+VjYxSRG9LW20ihB/wBdn5Vm1ZrsMQ9wlI+MMX3toEldeuWIYw==",
+  "success": true,
+  "projectFilePath": "/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/venta-sistema-computadoras.csproj",
+  "expectedPackageFiles": [
+    "/Users/yefersontoloza/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/yefersontoloza/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/yefersontoloza/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

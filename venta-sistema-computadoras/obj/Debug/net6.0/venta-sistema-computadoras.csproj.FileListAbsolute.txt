@@ -1,0 +1,15 @@
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/bin/Debug/net6.0/venta-sistema-computadoras
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/bin/Debug/net6.0/venta-sistema-computadoras.deps.json
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/bin/Debug/net6.0/venta-sistema-computadoras.runtimeconfig.json
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/bin/Debug/net6.0/venta-sistema-computadoras.dll
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/bin/Debug/net6.0/venta-sistema-computadoras.pdb
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/obj/Debug/net6.0/venta-sistema-computadoras.csproj.AssemblyReference.cache
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/obj/Debug/net6.0/venta-sistema-computadoras.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/obj/Debug/net6.0/venta-sistema-computadoras.AssemblyInfoInputs.cache
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/obj/Debug/net6.0/venta-sistema-computadoras.AssemblyInfo.cs
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/obj/Debug/net6.0/venta-sistema-computadoras.csproj.CoreCompileInputs.cache
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/obj/Debug/net6.0/venta-sistema-computadoras.dll
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/obj/Debug/net6.0/refint/venta-sistema-computadoras.dll
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/obj/Debug/net6.0/venta-sistema-computadoras.pdb
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/obj/Debug/net6.0/venta-sistema-computadoras.genruntimeconfig.cache
+/Users/yefersontoloza/Documents/venta-sistema-computadoras/venta-sistema-computadoras/obj/Debug/net6.0/ref/venta-sistema-computadoras.dll
